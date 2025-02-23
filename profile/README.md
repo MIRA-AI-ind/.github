@@ -29,7 +29,7 @@ A **user-friendly AI assistant** designed to **enhance Indian knowledge accessib
 ### 4️⃣ **Mira AI Website & API (Coming Soon)** 🌐  
 🔹 **Website:** [mira.is-cod.in](https://mira.is-cod.in)  
 🔹 **API Service:** Will be announced soon  
-🔹 **Website Code Repository:** [GitHub Repo](#)  
+🔹 **Website Code Repository:** [GitHub Repo](https://github.com/MIRA-AI-ind/MIRA-AI)
 
 ### 5️⃣ **Code Contributions** 👨‍💻  
 Developers can contribute to the **Mira AI website, app, and dataset processing tools**.  
