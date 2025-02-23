@@ -1,6 +1,6 @@
-# 🧠 Mira AI – Open-Source Indian AI Initiative
+# 🧠 Mira AI – Open-Source Indian AI Initiative  
 
-Welcome to **Mira AI**, an initiative by **MegaVault.IN** to build India's **first open-source AI dataset and AI-powered tools**. Our mission is to create **unbiased AI models** that accurately represent **Indian history, culture, and languages** while ensuring **openness, transparency, and accessibility** for everyone.
+Welcome to **Mira AI**, an initiative by **MegaVault.IN** to build India's **first open-source AI dataset and AI-powered tools**. Our mission is to create **unbiased AI models** that accurately represent **Indian history, culture, and languages** while ensuring **openness, transparency, and accessibility** for everyone.  
 
 ## 🌟 Why Mira AI?  
 🚀 **Bridging the AI Gap** – Existing AI models rely on **Western-centric datasets** that lack accurate **Indian historical and cultural perspectives**.  
@@ -24,10 +24,19 @@ Our AI models will be trained on **Indian-centric datasets** to provide **accura
 ### 3️⃣ **Mira AI App (Work in Progress)** 📱  
 A **user-friendly AI assistant** designed to **enhance Indian knowledge accessibility**.  
 🔹 **License:** [MIT License](https://opensource.org/licenses/MIT)  
-🔹 **Website:** Coming Soon!  
+🔹 **Website:** [mira.is-host.in](https://mira.is-host.in)  
 
-### 4️⃣ **Mira AI API (Upcoming)** 🔗  
-An **API layer** to enable developers to integrate **Indian AI knowledge** into their applications.  
+### 4️⃣ **Mira AI Website & API (Coming Soon)** 🌐  
+🔹 **Website:** [mira.is-cod.in](https://mira.is-cod.in)  
+🔹 **API Service:** Will be announced soon  
+🔹 **Website Code Repository:** [GitHub Repo - Coming Soon](#)  
+
+### 5️⃣ **Code Contributions** 👨‍💻  
+Developers can contribute to the **Mira AI website, app, and dataset processing tools**.  
+🔹 **Repo Links:**  
+   - **Website Code:** [GitHub - Coming Soon](#)  
+   - **App Code:** [GitHub - Coming Soon](#)  
+   - **Dataset Code:** [GitHub - Coming Soon](#)  
 
 ---
 
@@ -36,19 +45,18 @@ An **API layer** to enable developers to integrate **Indian AI knowledge** into 
 We need **developers, researchers, and contributors** to bring **Mira AI** to life!  
 
 💡 **Ways You Can Help:**  
-✅ **Join the Discussion** – Help shape our **dataset creation** and **AI model development**.  
+✅ **Join the Community** – Help shape our **dataset creation** and **AI model development**.  
 ✅ **Develop Open-Source AI Tools** – Work on **AI-powered applications** with us.  
 ✅ **Spread the Word** – Let more **developers and AI researchers** know about **Mira AI**.  
 
+📢 **Organization Repository:** [GitHub: MIRA-AI-ind](https://github.com/MIRA-AI-ind)  
 
 ---
 
-## 📜 Licensing  
-
-🔹 **Mira AI Dataset** (Future) – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)  
-🔹 **Mira AI App & Website** – [MIT License](https://opensource.org/licenses/MIT)  
-🔹 **Mira AI API** (Future) – License TBD  
+🔗 **Stay Connected**  
+🌍 Official Website: [mira.is-cod.in](https://mira.is-cod.in)  
+📲 App & Main Page: [mira.is-host.in](https://mira.is-host.in)  
+📂 GitHub Org: [MIRA-AI-ind](https://github.com/MIRA-AI-ind)  
 
 ---
-
-🚀 **Mira AI is in its early stages**. We welcome all contributions and discussions to shape India's first **open-source AI initiative**!  
+🚀 **Let's build India's first truly open AI together!**
