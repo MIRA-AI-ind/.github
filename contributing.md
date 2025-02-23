@@ -25,7 +25,7 @@ We expect all contributors to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md
 
 2. **Clone Your Fork**: Clone your forked repository to your local machine:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/mira-chat.git
+   git clone https://github.com//MIRA-AI-ind/mira-chat.git
    ```
 
 3. **Create a Branch**: Create a new branch for your feature or bug fix:
